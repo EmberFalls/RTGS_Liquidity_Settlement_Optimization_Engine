@@ -1,0 +1,9 @@
+{
+  "result": "PASS",
+  "duplicateFinancialEffects": 0,
+  "destinationLiquidity": 40,
+  "dependencies": { "postgres": true, "redis": true, "kafka": true },
+  "sourceLiquidity": 60,
+  "servicesHealthy": ["app", "kafka", "postgres", "redis"],
+  "command": "scripts/runtime-smoke.ps1"
+}

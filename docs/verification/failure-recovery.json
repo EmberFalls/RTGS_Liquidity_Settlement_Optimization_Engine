@@ -1,0 +1,13 @@
+{
+  "runPrefix": "recovery-14e3e7e6-",
+  "backlogRecoverySeconds": 4.5776796,
+  "consumerRestart": true,
+  "backlogPublishedRecords": 120,
+  "postgresTransactionFailureRollback": true,
+  "redisDeletionRebuild": true,
+  "duplicateFinancialEffects": 0,
+  "result": "PASS",
+  "backlogUniquePayments": 100,
+  "applicationRestart": true,
+  "redisOutageRecovery": true
+}

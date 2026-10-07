@@ -1,0 +1,174 @@
+{
+  "dataClassification" : "MODELED ASSUMPTION",
+  "seed" : 42,
+  "resultsInProfileOrder" : [ {
+    "strategy" : "FIFO",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 300,
+    "settledValueMinor" : 16599,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 300,
+    "settledValueMinor" : 16599,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY_PLUS_GRIDLOCK",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 300,
+    "settledValueMinor" : 16599,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "FIFO",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 292,
+    "settledValueMinor" : 37220,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 292,
+    "settledValueMinor" : 37220,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY_PLUS_GRIDLOCK",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 292,
+    "settledValueMinor" : 37220,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "FIFO",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 292,
+    "settledValueMinor" : 37220,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 292,
+    "settledValueMinor" : 37220,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY_PLUS_GRIDLOCK",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 292,
+    "settledValueMinor" : 37220,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "FIFO",
+    "openingPerParticipantMinor" : 30,
+    "settledCount" : 0,
+    "settledValueMinor" : 0,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 300,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY",
+    "openingPerParticipantMinor" : 30,
+    "settledCount" : 239,
+    "settledValueMinor" : 11907,
+    "averageSimulatedQueueWaitMillis" : 442.38493723849376,
+    "unresolvedPayments" : 61,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY_PLUS_GRIDLOCK",
+    "openingPerParticipantMinor" : 30,
+    "settledCount" : 240,
+    "settledValueMinor" : 11789,
+    "averageSimulatedQueueWaitMillis" : 364.8333333333333,
+    "unresolvedPayments" : 60,
+    "gridlockBatches" : 13
+  }, {
+    "strategy" : "FIFO",
+    "openingPerParticipantMinor" : 0,
+    "settledCount" : 0,
+    "settledValueMinor" : 0,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 300,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY",
+    "openingPerParticipantMinor" : 0,
+    "settledCount" : 0,
+    "settledValueMinor" : 0,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 300,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY_PLUS_GRIDLOCK",
+    "openingPerParticipantMinor" : 0,
+    "settledCount" : 300,
+    "settledValueMinor" : 15000,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 100
+  }, {
+    "strategy" : "FIFO",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 177,
+    "settledValueMinor" : 10380,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 177,
+    "settledValueMinor" : 10380,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  }, {
+    "strategy" : "PRIORITY_PLUS_GRIDLOCK",
+    "openingPerParticipantMinor" : 10000,
+    "settledCount" : 177,
+    "settledValueMinor" : 10380,
+    "averageSimulatedQueueWaitMillis" : 0.0,
+    "unresolvedPayments" : 0,
+    "gridlockBatches" : 0
+  } ],
+  "profileOrder" : [ "normal-day", "peak-day", "burst-day", "liquidity-constrained", "gridlock-heavy", "duplicate-heavy" ],
+  "liquiditySearchWorkload" : {
+    "profile" : "liquidity-constrained",
+    "paymentCount" : 120,
+    "targetRatePerSecond" : 100,
+    "participantCount" : 3,
+    "openingLiquidityMinor" : 10,
+    "minimumAmountMinor" : 10,
+    "maximumAmountMinor" : 20,
+    "amountDistribution" : "UNIFORM",
+    "urgentRate" : 0.1,
+    "highRate" : 0.3,
+    "deadlineRate" : 0.2,
+    "duplicateRate" : 0.0,
+    "burstSize" : 1,
+    "seed" : 42
+  },
+  "successTarget" : "100% of unique payments",
+  "minimumPerParticipantOpeningMinor" : {
+    "PRIORITY_PLUS_GRIDLOCK" : 187,
+    "PRIORITY" : 187,
+    "FIFO" : 238
+  },
+  "measuredLiquidityReductionPercent" : 21.428571428571427,
+  "javaVersion" : "21.0.11"
+}
